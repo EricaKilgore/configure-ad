@@ -48,10 +48,8 @@ This tutorial provides a comprehensive guide to deploying an on-premises Active 
 
 <p>
     <img width="359" alt="image" src="https://github.com/user-attachments/assets/e0c4b039-3013-4fcf-bedb-cf3043802b79"></p>
-<ul> 
-  <li>Now that we know what statis IP is, lets assign one to DC-1. Client-1 will establish connectivity with DC-1, and to confirm this connection, a ping test will be conducted from Client-1 to DC-1. Initially, the ping attempt is expected to fail due to existing firewall configurations. To address this, we will enable ICMPv4 on the firewall of DC-1. Once ICMPv4 is activated, Client-1 should be able to successfully ping DC-1, confirming connectivity.
-  </li>
-</ul>
+Now that we know what statis IP is, lets assign one to DC-1. Client-1 will establish connectivity with DC-1, and to confirm this connection, a ping test will be conducted from Client-1 to DC-1. Initially, the ping attempt is expected to fail due to existing firewall configurations. To address this, we will enable ICMPv4 on the firewall of DC-1. Once ICMPv4 is activated, Client-1 should be able to successfully ping DC-1, confirming connectivity.
+
 
  </p>
     <br />
